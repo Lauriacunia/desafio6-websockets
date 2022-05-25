@@ -1,3 +1,10 @@
+ # Deploy Glitch
+  ⏯ [Mirá cómo funciona éste proyecto en GLITCH](https://youtu.be/5tP1Ra73c38)
+
+# Tutorial
+
+ ⏯ [Te cuento como resolver el desafío aquí- Tutorial](https://youtu.be/5tP1Ra73c38)
+ 
  # 🔥📲 ¿Cómo crear y levantar un proyecto Node Js? 🔥📲
  * 1- Crear el package json
 ```
