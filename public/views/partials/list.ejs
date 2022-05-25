@@ -1,0 +1,23 @@
+<section class="mt-6">
+  <div
+    class="container is-flex is-justify-content-space-between is-flex-wrap-wrap"
+  >
+    <% products.forEach(product=> { %>
+    <div class="card" style="width: 150px; margin: 20px">
+      <div class="card-image" style="padding: 15px">
+        <figure class="image is-4by3">
+          <img src="<%= product.thumbnail %>" alt="Placeholder image" />
+        </figure>
+      </div>
+      <div class="card-content">
+        <div class="media">
+          <div class="media-content">
+            <p class="title is-6"><%=product.title %></p>
+            <p class="subtitle is-6">$ <%=product.price %></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <% }); %>
+  </div>
+</section>
