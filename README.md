@@ -3,7 +3,7 @@
 
 # Tutorial
 
- ⏯ [Te cuento como resolver el desafío aquí- Tutorial](https://youtu.be/5tP1Ra73c38)
+ ⏯ [Te cuento como resolver el desafío aquí- Tutorial](https://youtu.be/qNIh8pCDyzI)
  
  # 🔥📲 ¿Cómo crear y levantar un proyecto Node Js? 🔥📲
  * 1- Crear el package json

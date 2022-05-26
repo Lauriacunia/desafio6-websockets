@@ -28,6 +28,7 @@ app.set('view engine', 'ejs');
 /** ROUTER */
 // Nota: recordar que todas las subrutas necesitan esta ruta base.
 app.use('/api/products', routeProducts);
+
 app.get('/', (req, res) => {
     res.redirect('/api/products');
 }
